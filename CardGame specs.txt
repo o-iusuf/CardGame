@@ -17,6 +17,7 @@ It has an endless number of rounds.
 During (for) each round
 	Each player bets 
 	Dealer deals 2 cards to each Player and two for himself. 
+	Dealer evaluates his hand 
 Each player 
 
 End of file
