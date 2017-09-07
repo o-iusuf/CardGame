@@ -1,0 +1,22 @@
+BlackJack 
+	is played by Dealer against one or more Players
+		- Add Player
+		- Remove Player
+	is played with a number of Decks
+		- Add Deck
+		- Shuffle GameDeck
+	cards are dealt from a Pack
+		Initialize Pack = shuffled Decks minus last 60 - 75 cards
+		take first card from deck
+	has certain rules
+		- card value: each card has a value - the pip value for 2 - 9, 10 for face cards, 1 or 11 for Ace
+		- each round, Dealer or Player hands are evaluated and one of them wins
+		- each round, Dealer acts automatically
+		- each round, Player could ask for one or more cards. Player decides after seeing his cards and/or after given a card.
+It has an endless number of rounds.
+During (for) each round
+	Each player bets 
+	Dealer deals 2 cards to each Player and two for himself. 
+Each player 
+
+End of file
