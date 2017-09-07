@@ -11,6 +11,8 @@ BlackJack
 	has certain rules
 		- card value: each card has a value - the pip value for 2 - 9, 10 for face cards, 1 or 11 for Ace
 		- each round, Dealer or Player hands are evaluated and one of them wins
+		- each round, Dealer acts automatically
+		- each round, Player could ask for one or more cards. Player decides after seeing his cards and/or after given a card.
 It has an endless number of rounds.
 During (for) each round
 	Each player bets 
