@@ -7,7 +7,7 @@ BlackJack
 		- Shuffle GameDeck
 	cards are dealt from a Pack
 		Initialize Pack = shuffled Decks minus last 60 - 75 cards
-		take first card from deck
+		take first card from Pack
 	has certain rules
 		- card value: each card has a value - the pip value for 2 - 9, 10 for face cards, 1 or 11 for Ace
 		- each round, Dealer or Player hands are evaluated and one of them wins
